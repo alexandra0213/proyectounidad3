@@ -33,6 +33,6 @@ Aquí puedes ver los bocetos iniciales que utilizamos para guiar el desarrollo d
 ## ¿A qué público va dirigido?
 
 Este proyecto está dirigido a personas interesadas en la serie que posean una capacidad de entendimiento básico. Sin embargo, también es adecuado para nuevos fans mayores de 12 años que estén interesados en adentrarse en el mundo de la serie y explorar su contenido de manera interactiva.
-![dipper](./assets/img-readme/gif1.mp4)
+![dipper](https://media.tumblr.com/tumblr_mazrojoRvv1r8gr9m.gif)
 
 
