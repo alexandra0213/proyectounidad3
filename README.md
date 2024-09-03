@@ -12,9 +12,9 @@ La idea surgió de forma aleatoria y fue aceptada por el grupo de desarrollo. Pa
 
 Aquí puedes ver los bocetos iniciales que utilizamos para guiar el desarrollo del proyecto:
 
-- **Boceto 1**:(./assets/img-readme/inicio.jpeg)
-- **Boceto 2**:(./assets/img-readme/personajes.jpeg)
-- **Boceto 3**:(./assets/img-readme/diarios.jpeg)
+- **Boceto 1**: ![Boceto 1](./assets/img-readme/inicio.jpeg)
+- **Boceto 2**: ![Boceto 2](./assets/img-readme/personajes.jpeg)
+- **Boceto 3**: ![Boceto 3](./assets/img-readme/diarios.jpeg)
 
 
 
