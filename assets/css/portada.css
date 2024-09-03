@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Permanent+Marker&display=swap');
+
+body {
+    font-family: "Gochi Hand", cursive;
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    background-image: url(/assets/img/pantallageneral.jpg);
+    background-size: cover; 
+    background-position: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fondo-transparente {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.9); 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px; 
+    padding: 30px;
+    max-width: 80vw; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 300px; 
+    height: 65%; 
+    overflow: hidden; 
+    box-sizing: border-box;
+}
+
+.contenido {
+    display: flex;
+    align-items: flex-start; 
+    justify-content: space-between; 
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.texto-y-botones {
+    display: flex;    
+    text-align: center;
+    flex-direction: column;
+    align-items: center; 
+    gap: 20px;
+    width: 100%;
+    height: auto;
+    max-height: calc(70vh - 60px);
+    overflow: hidden;
+}
+
+.burbuja {
+    background-color: #CDB669; 
+    border: 1px solid black; 
+    border-radius: 15px; 
+    padding: 20px; 
+    max-width: 100%;
+    text-align: left; 
+    font-size: 22px; 
+    position: relative; 
+    box-sizing: border-box;
+}
+
+.botones {
+    display: flex;
+    width: 80%; 
+    flex-direction: column; 
+    gap: 20px; /* Aumenta el espacio entre los botones */
+    justify-content: center; 
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+
+.botones .si,
+.botones .no { 
+    font-family: "Gochi Hand", cursive;
+    background-color: #CDB669; 
+    color: rgb(0, 0, 0); 
+    border: 2px solid black; 
+    border-radius: 10px; 
+    padding: 15px 40px; 
+    cursor: pointer;
+    font-size: 22px; 
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+    text-align: center;
+}
+
+.botones .si:hover { 
+    background-color: #ac995d; 
+    transform: scale(1.1);
+}
+
+.botones .no {
+    background-color: #CDB669;
+}
+
+.botones .no:hover {
+    background-color: #ac995d; 
+    transform: scale(1.1);
+}
+
+.imagen1 img {
+    max-width: 20vw; 
+    max-height: 60vh;
+}
+
+

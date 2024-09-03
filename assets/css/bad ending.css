@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Gochi+Hand&family=Permanent+Marker&display=swap');
+
+
+body {
+    font-family: "Creepster", system-ui;
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    background-color: black;
+    background-image: url(https://pa1.aminoapps.com/6386/f7bf5a4d6480cb8309cf5970d6f008903f6d015b_00.gif);
+    background-position: center; 
+    background-size: cover; /* Asegúrate de que el fondo cubra toda el área */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(141, 3, 3);
+    font-size: xx-large;
+}
+
+.botones {
+    display: flex;
+    gap: 20px; /* Espacio ajustado entre los botones */
+    justify-content: center;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+.botones .si,
+.botones .no { 
+    font-family: "Creepster", system-ui;
+    background-color: #000000; 
+    width: 150px;
+    color: rgb(255, 255, 255); 
+    border: 2px solid black; 
+    border-radius: 10px; 
+    padding: 15px 40px; 
+    cursor: pointer;
+    font-size: 22px; 
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+    text-align: center;
+}
+
+.botones .si:hover { 
+    background-color: #000000; 
+    transform: scale(1.1);
+}
+
