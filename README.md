@@ -23,5 +23,16 @@ Aquí puedes ver los bocetos iniciales que utilizamos para guiar el desarrollo d
   Además, la página de inicio también presenta una biografía del creador y la historia detrás de la creación de la serie, proporcionando un contexto adicional para los visitantes.
 
 - **Boceto 2**: ![Boceto 2](./assets/img-readme/personajes.jpeg)
+
+  En este boceto, podemos indagar en la historia de cada personaje con detalles y otros aspectos relevantes. Esta sección está diseñada para ofrecer una visión profunda y enriquecedora de los personajes de la serie, permitiendo a los usuarios explorar su trasfondo y características de manera más detallada.
+
 - **Boceto 3**: ![Boceto 3](./assets/img-readme/diarios.jpeg)
+
+  Aquí se describe la creación de cada diario y la información general que contienen. Esta sección proporciona una visión general de los diarios, su propósito en la serie y cómo se integran en la narrativa del proyecto.
+
+## ¿A qué público va dirigido?
+
+Este proyecto está dirigido a personas interesadas en la serie que posean una capacidad de entendimiento básico. Sin embargo, también es adecuado para nuevos fans mayores de 12 años que estén interesados en adentrarse en el mundo de la serie y explorar su contenido de manera interactiva.
+![dipper](./assets/img-readme/gif1.mp4)
+
 
